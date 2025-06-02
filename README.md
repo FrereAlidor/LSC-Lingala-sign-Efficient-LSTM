@@ -112,7 +112,8 @@ python lingala_sign_translation.py
 - **Batch Size**: 32
 - **Early Stopping**: Patience of 10 epochs
 - **Learning Rate Reduction**: Factor 0.2, patience 5
-  ![Plot-time-comparaison](https://github.com/user-attachments/assets/3769f030-d68a-43a0-96de-22a54ca9a9db)
+ ![model_comparison (1)](https://github.com/user-attachments/assets/4e86dcb2-4650-432d-a2ae-82637fac3395)
+
 
 
 ## 🔧 Usage
@@ -155,7 +156,10 @@ text_to_speech(predicted_text, lang='fr')
 ```python
 # Perform robust model evaluation
 cv_metrics = k_fold_cross_validation(X_train, y_train, n_splits=5)
+
 ```
+![REsult](https://github.com/user-attachments/assets/9b5cf070-a238-476c-886b-bc65de3011e9)
+
 
 ### Hand Landmark Visualization
 
