@@ -209,6 +209,14 @@ The system provides comprehensive training visualization including:
 - **CPU**: Intel i7 or AMD Ryzen 7
 - **Storage**: 5GB+ free space
 
+### Contributor
+
+- **Maurice T. Mukungu** – BL Harbert International, United States
+- **Alidor M. Mbayandjambe** – University of Kinshasa (DRC) and Vietnam National University, Hanoi
+- **Tasho Tashev** – Technical University of Sofia, Bulgaria
+- **Kyandoghere Kyamakya** – University of Klagenfurt, Austria
+- **Selain K. Kasereka** – University of Kinshasa, (DRC) and Technical University of Sofia, Bulgaria
+
 ## 🤝 Contributing
 
 We welcome contributions to improve the Lingala Sign Language Translation System:
