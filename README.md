@@ -209,7 +209,7 @@ The system provides comprehensive training visualization including:
 - **CPU**: Intel i7 or AMD Ryzen 7
 - **Storage**: 5GB+ free space
 
-### Contributor
+## 👥 Contributors
 
 - **Maurice T. Mukungu** – BL Harbert International, United States
 - **Alidor M. Mbayandjambe** – University of Kinshasa (DRC) and Vietnam National University, Hanoi
